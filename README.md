@@ -1,6 +1,6 @@
 # J.A.R.V.I.S-AI-in-Batch-Scripting
 ### 🤖 J.A.R.V.I.S-PreAlpha-v0.0.1🤖
-This is an AI built By BrainyBuddies aka MKXGames.
+**This is an AI built By BrainyBuddies aka MKXGames.**
 
 ### **About Jarvis:**
 
@@ -28,7 +28,26 @@ if you have any concerns about Jarvis or if you want to give any idea \ report a
 -     What will you do?
 -     See ya!
 -     Yeah, going well
--     Well, yeah nice
+-     Well, yeah nice.
+### How to Download Jarvis?, Let's see in three steps:
+
+**Step 1: Click on code, and "Download Zip"** 
+
+![image](https://user-images.githubusercontent.com/99661109/153909901-f02125f7-8a04-4d48-ac94-40029098e818.png)
+
+
+**Step 2:Now go to Downloads folder and locate the file, right click >Extract>Extract-To-J.a.r.v.i.s.....**
+
+
+![image](https://user-images.githubusercontent.com/99661109/153908578-7012fd31-a047-4b7b-9fb8-f7d54f8d715f.png)
+
+
+**Step 3:Now double-click on the extracted folder and again and double-click "Jarvis.bat"**
+
+
+![image](https://user-images.githubusercontent.com/99661109/153909637-47b801b4-4be5-477e-89e0-e49dd65de577.png)
+
+
 **✅👉Follow me on github: https://github.com/BrainyBuddies,**
 
 **✅👉Discord:             "MKXGames#5387",**
