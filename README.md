@@ -1,6 +1,18 @@
 # J.A.R.V.I.S-AI-in-Batch-Scripting
 ### 🤖 J.A.R.V.I.S-PreAlpha-v0.1🤖
-**This is an AI built By BrainyBuddies aka MKXGames.**
+# In This Update(v0.9):
+- **Allowing user to change themes in between [Light | Dark]**
+- **Added New Ablity: Dictionary search.**
+- **Jarvis will now also checks weather for you.**
+- **Added custom extentions for Jarvis themes**
+- **Added Application Layouts**
+- **Updated help.html**
+- **Added Emoji support (With ANCII encoding type.)**
+ # Bugs Fixed:
+- **Crash during "?help" command**
+- **Updater didn't work properly**
+- **extention error: jtme**
+- **"Findstr didn't identify user's keywords "**
 
 ### **About Jarvis:**
 
@@ -8,6 +20,17 @@
 Since this is a "pre-alpha" release, only few commands available...."
 The whole commands list you can use in this pre-alpha release will be given below
 if you have any concerns about Jarvis or if you want to give any idea \ report any bug chat me in discord: "MKXGames#5387"**
+
+**This is an AI built By BrainyBuddies aka MKXGames.**
+
+# **Promo:**
+
+
+
+https://user-images.githubusercontent.com/99661109/154301708-0746cb51-cebe-48a3-b2a2-09c1590c60db.mp4
+
+
+
 ### **Commands:**
 **Note: "?" symbol is the prefix of commands here. Some commands needs prefix to work some command doesn't**
 -     ?update    -     Checks for updates
@@ -18,6 +41,8 @@ if you have any concerns about Jarvis or if you want to give any idea \ report a
 ### **Things to talk to Jarvis**:
 -     Hi          You can also add your own sentence ex(Hi, Jarvis, Hi Jarvis how's it going) But the word shoud not change, this
                   applays for all, messages but, you should not use in commands with prefix.
+-     Jarvis What is the weather's out today?                   -      Show's the user weather
+-     Jarvis, open dictionary.                                  -      Opens Jarvis Dictionary.
 -     Yes
 -     Fine
 -     Hello
