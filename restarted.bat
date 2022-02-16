@@ -23,7 +23,9 @@ echo if you want help using Jarvis, enter: ?help 🙂
 echo.
 echo For example(Jarvis, Open J-Dictionary) or (Hi Jarvis, What's the Weather out today?).
 echo %input%|findstr /i "%input%" >nul && cls  && goto :loop
+cls
 :loop
+
 echo.
 set /p input="[You]: "
 

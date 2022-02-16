@@ -42,7 +42,7 @@ echo For example(Jarvis, Open J-Dictionary) or (Hi Jarvis, What's the Weather ou
 :loop
 echo.
 set /p input="[You]: "
-
+cls
  
 doskey /history > .\Data\User-Chat-History\%date%\DATA.log
 
