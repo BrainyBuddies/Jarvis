@@ -19,7 +19,7 @@
 **Jarvis is a AI developed by "MKXGames",
 Since this is a "pre-alpha" release, only few commands available...."
 The whole commands list you can use in this pre-alpha release will be given below
-if you have any concerns about Jarvis or if you want to give any idea \ report any bug chat me in discord: "MKXGames#5387"**
+if you have any concerns about Jarvis or if you want to give any idea \ report any bug chat me in Discord: "MKXGames#5387"**
 
 **This is an AI built By BrainyBuddies aka MKXGames.**
 
